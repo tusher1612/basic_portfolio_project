@@ -26,7 +26,7 @@ This is a simple yet elegant portfolio website built using HTML, CSS, JavaScript
 
 2. Navigate to the project folder:  
    ```bash  
-   cd portfolio-website  
+   cd basic_portfolio_project  
    ```  
 
 3. Open the `index.html` file in your browser to view the website.  
